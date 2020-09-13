@@ -1,17 +1,13 @@
-# Code Kata TypeScript Template
+# Roman Numerals
 
-This is a typescript template for code katas created by [Pablo Rodríguez Guillén](https://github.com/Pablorg99).
+Roman Numerals code kata solved.
 
-To use it follow these steps.
+### Collaborators:
 
-### Step 1. Clone the repository
+*[AlexTheMagnus](https://github.com/AlexTheMagnus)
+*[AdrianLopezGue](https://github.com/AdrianLopezGue)
+*Alfonso
 
-`git clone git@github.com:Pablorg99/typescript-kata-template.git`
+### Template:
 
-### Step 2. Install the dependencies (I use yarn)
-
-`yarn install`
-
-### Step 3. Run the tests
-
-`yarn test`
+Based on [Pablorg99](https://github.com/Pablorg99)'s [typescript template for code katas](https://github.com/Pablorg99/typescript-kata-template).
